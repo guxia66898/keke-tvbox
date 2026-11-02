@@ -1,0 +1,27 @@
+{
+  "spider": "https://raw.githubusercontent.com/guxia66898/keke-tvbox/main/multispider.jar;md5;687ce5c41ed0b557dd9cea5fa629543c",
+  "sites": [
+    { "key": "Keke", "name": "可可影视", "type": 3, "api": "csp_Keke", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "Jianyun", "name": "极速追剧", "type": 3, "api": "csp_Jianyun", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+    { "key": "Zhuiying", "name": "追影", "type": 3, "api": "csp_Zhuiying", "searchable": 0, "quickSearch": 0, "filterable": 0 },
+    { "key": "Aeete", "name": "Auete影视", "type": 3, "api": "csp_Aeete", "searchable": 0, "quickSearch": 0, "filterable": 0 },
+    { "key": "Lxyy", "name": "洛雪TV", "type": 3, "api": "csp_Lxyy", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+    { "key": "bfzy", "name": "暴风资源", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "jszy", "name": "极速资源", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "wujin", "name": "无尽资源", "type": 1, "api": "https://api.wujinapi.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "360zy", "name": "360资源", "type": 1, "api": "https://360zyzz.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "mdzy", "name": "魔都资源", "type": 1, "api": "https://www.mdzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "hhzy", "name": "豪华资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "guangsu", "name": "光速资源", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "huya", "name": "虎牙资源", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "haohua", "name": "豪华资源2", "type": 1, "api": "https://www.haohuazy.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "lzcai", "name": "蓝泽资源", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "iqiyizy", "name": "爱奇艺资源", "type": 1, "api": "https://iqiyizyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "modu", "name": "魔爪资源", "type": 1, "api": "https://caiji.moduapi.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "maoyan", "name": "猫眼资源", "type": 1, "api": "https://api.maoyanapi.top/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 },
+    { "key": "rycj", "name": "如意资源", "type": 1, "api": "https://cj.rycjapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 1 }
+  ],
+  "parses": [],
+  "flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "renrenmi"],
+  "lives": []
+}
