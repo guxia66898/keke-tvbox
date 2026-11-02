@@ -1,0 +1,20 @@
+{
+  "spider": "https://raw.githubusercontent.com/guxia66898/keke-tvbox/main/keke_spider.jar;md5;5f16960ca893e26abcc0f4fa9cae9262",
+  "sites": [
+    {
+      "key": "Keke",
+      "name": "可可影视",
+      "type": 3,
+      "api": "csp_Keke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "indexs": 0,
+      "ext": ""
+    }
+  ],
+  "parses": [],
+  "flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "renrenmi"],
+  "lives": []
+}
